@@ -1,0 +1,27 @@
+/* styles.css */
+
+.odd-number,
+.cooler {
+    color:black;
+    background-color: #FF99FF;
+}
+
+.odd-number {
+    font-family: verdana, Dejavu Sans, sans-serif;
+}
+
+#number-two {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#number-four {
+    color:black;
+    background-color: #00FF80;
+    font-size: 24px;
+    font-weight: 700;
+}
